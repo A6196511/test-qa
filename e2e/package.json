@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "npx cypress run --spec 'cypress/e2e/*.js'"
+  },
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
